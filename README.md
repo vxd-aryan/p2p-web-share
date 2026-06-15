@@ -45,7 +45,7 @@ cd p2p-file-share
 npm install
 npm run dev
 
-How To Use
+**How To Use**
 Open http://localhost:5173 in two separate browser windows (or separate devices on the same local network).
 
 On Browser 1, click Create Room to generate a unique Room ID.
